@@ -13,8 +13,12 @@ These exams are divided into three parts, each requiring a specific amount of ti
 With this timer app, you can optimize your study sessions for the Amiram exams, allowing you to concentrate on the content without the added stress of manual timer adjustments between different parts.
 
 ## Demo Video
-<img src="https://github.com/yayaya142/Amiram-Timer/assets/82652251/1af86063-78e9-4bdf-878f-f2502ede76e5" width="350" height="450">
+<br>
+
+![25](https://github.com/yayaya142/Amiram-Timer/assets/82652251/10ea53d5-2b23-4774-8b55-d6fd860cd3d1)
 <br> <br>
-<img src="https://github.com/yayaya142/Amiram-Timer/assets/82652251/4c0f2e3c-1204-4119-b24c-c4c2a5d4dcbc" width="350" height="450">
+![ezgif com-video-to-gif (2)](https://github.com/yayaya142/Amiram-Timer/assets/82652251/1837f11f-3c31-4bdf-99b3-9ce07cf357c9)
+
+
 
 
